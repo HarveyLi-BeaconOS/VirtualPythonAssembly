@@ -102,6 +102,7 @@ class RegisterMethods:
         
 def RegisterInit():
     global ax, bx, cx, dx, ex, fx
+    global apx, bpx, cpx, dpx, epx, fpx
     ReconfiguedPackages.ConsolePrint("Initializing registers ................... ")
     ax = Register("ax")
     bx = Register("bx")
