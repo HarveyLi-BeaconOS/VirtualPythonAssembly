@@ -8,6 +8,7 @@
     + Please pay attribute in this form in your project if used: "Harvey Li, Virtual Machine Assembly Project."
 
 ## Current Plans and Roadmap
+
     + Package commands
     + Better buffer (RAM) management algorithm
     + Multiprocessing supports
