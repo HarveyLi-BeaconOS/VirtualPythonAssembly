@@ -1,7 +1,7 @@
 # VM_ASM
  A simulated assembly implemented with Python
 
-## Lisence in Brief
+## License in Brief
 
     + Please share, remix, reuse, modify any part of this project! It is highly encouraged!
     + Please share-alike, meaning share anything that you made off this project under GNU GPL 3.0
