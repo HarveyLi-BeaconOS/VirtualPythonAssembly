@@ -21,3 +21,7 @@
    
 + tkinter
 + multiprocessing
+
+## WARNING
+
++ This branch/version uses a customized implementation of the String class (See C_DataTypes_Guide)
